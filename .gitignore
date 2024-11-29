@@ -32,7 +32,6 @@ jspm_packages/
 *.tsbuildinfo
 
 # Cache and lock files
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-debug.log
