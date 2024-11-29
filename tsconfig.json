@@ -1,17 +1,33 @@
 {
-  "files": [],
   "references": [
-    {
-      "path": "./tsconfig.node.json"
-    },
-    {
-      "path": "./tsconfig.app.json"
-    },
-    {
-      "path": "./tsconfig.vitest.json"
-    }
   ],
   "compilerOptions": {
-    "module": "NodeNext"
-  }
+    "outDir": "./dist",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",          
+    "lib": ["DOM", "ESNext"],
+    "types": ["vue", "vite/client", "vitest", "vitest/globals"],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "strict": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "src/vue-shim.d.ts"
+  ],
+  "exclude": ["dist"],
+  "scripts": {
+  "clean": "rm -rf dist",
+  "type-check": "tsc --noEmit",
+  "build": "npm run clean && tsc --build && vite build"
+}
 }

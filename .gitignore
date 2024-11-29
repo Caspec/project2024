@@ -42,12 +42,6 @@ pnpm-lock.yaml
 .DS_Store
 Thumbs.db
 
-# Vite specific
-.vite/
-vite.config.ts
-vite.config.js
-vite.config.mjs
-
 # Static asset cache
 *.cache
 public/static/
