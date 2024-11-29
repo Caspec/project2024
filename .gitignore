@@ -1,0 +1,73 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+out/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.*.local
+
+# Typescript
+*.tsbuildinfo
+
+# Cache and lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnpm-debug.log
+.cache/
+.eslintcache
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Vite specific
+.vite/
+vite.config.ts
+vite.config.js
+vite.config.mjs
+
+# Static asset cache
+*.cache
+public/static/
+
+# Testing
+coverage/
+*.lcov
+test-results.xml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# HMR (Hot Module Replacement) Cache
+# Used during development
+*.hot-update.json
