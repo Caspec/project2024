@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Caspec/project2024/compare/v1.0.0...v1.1.0) (2024-11-30)
+
+
+### Features
+
+* add ci ([080cabf](https://github.com/Caspec/project2024/commit/080cabf38b233103bae3874319266e9cfb609f31))
+
 # 1.0.0 (2024-11-29)
 
 
