@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Caspec/project2024/compare/v1.2.0...v1.3.0) (2024-12-09)
+
+
+### Features
+
+* add tailwind ([0636c53](https://github.com/Caspec/project2024/commit/0636c53d04b4b9c9b1d041cd2fd2a225900b3191))
+
 # [1.2.0](https://github.com/Caspec/project2024/compare/v1.1.0...v1.2.0) (2024-12-09)
 
 
