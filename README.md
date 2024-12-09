@@ -10,6 +10,7 @@ A Vue.js 3 project built using Vite, designed with TypeScript, Pinia for state m
 - 🔒 **Type Safety**: TypeScript integration for safer and more scalable code.
 - 📦 **State Management**: Using [Pinia](https://pinia.vuejs.org/).
 - 🌐 **Routing**: Configured with [Vue Router](https://router.vuejs.org/).
+- 🔥 **Firebase**: Firebase integration for real-time database, authentication, and hosting.
 - ✅ **Testing**: Unit testing with [Vitest](https://vitest.dev/) and end-to-end testing with [Cypress](https://www.cypress.io/).
 - 🎨 **Linting**: ESLint with Vue and TypeScript support.
 - 🔄 **CI/CD**: Semantic Release for automated versioning and GitHub Actions for deployment workflows.
