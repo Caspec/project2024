@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Caspec/project2024/compare/v1.1.0...v1.2.0) (2024-12-09)
+
+
+### Features
+
+* add firebase ([56eed39](https://github.com/Caspec/project2024/commit/56eed3916669801da01af076f66c0d664f2b837a))
+
 # [1.1.0](https://github.com/Caspec/project2024/compare/v1.0.0...v1.1.0) (2024-11-30)
 
 
