@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Caspec/project2024/compare/v1.3.0...v1.4.0) (2024-12-09)
+
+
+### Features
+
+* add basic ui ([e563e08](https://github.com/Caspec/project2024/commit/e563e08e1bfb5f3a63eb29ba80eda5922492daa2))
+
 # [1.3.0](https://github.com/Caspec/project2024/compare/v1.2.0...v1.3.0) (2024-12-09)
 
 
